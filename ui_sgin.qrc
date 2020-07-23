@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>my-images/close.png</file>
+        <file>my-images/closew.png</file>
+        <file>my-images/danqu.png</file>
+        <file>my-images/heart00.png</file>
+        <file>my-images/heart01.png</file>
+        <file>my-images/ico.png</file>
+        <file>my-images/last.png</file>
+        <file>my-images/last1.png</file>
+        <file>my-images/logo.png</file>
+        <file>my-images/min.png</file>
+        <file>my-images/min1.png</file>
+        <file>my-images/minw.png</file>
+        <file>my-images/mode.png</file>
+        <file>my-images/next.png</file>
+        <file>my-images/next1.png</file>
+        <file>my-images/nosound_dark.png</file>
+        <file>my-images/nosound_light.png</file>
+        <file>my-images/picstyle.png</file>
+        <file>my-images/picstyle2.png</file>
+        <file>my-images/play1.png</file>
+        <file>my-images/play2.png</file>
+        <file>my-images/play3.png</file>
+        <file>my-images/play4.png</file>
+        <file>my-images/play5.png</file>
+        <file>my-images/progress_thume.png</file>
+        <file>my-images/shunxu.png</file>
+        <file>my-images/sound.png</file>
+        <file>my-images/suiji.png</file>
+        <file>my-images/timg.jpg</file>
+        <file>my-images/traylast.png</file>
+        <file>my-images/traynext.png</file>
+        <file>my-images/trayplay1.png</file>
+        <file>my-images/trayplay2.png</file>
+        <file>my-images/traysound1.png</file>
+        <file>my-images/traysound2.png</file>
+        <file>my-images/traysoundless.png</file>
+        <file>my-images/图标.png</file>
+        <file>my-images/图标2.png</file>
+        <file>my-images/add.png</file>
+        <file>my-images/addmusic.png</file>
+    </qresource>
+</RCC>
